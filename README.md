@@ -1,5 +1,40 @@
 # Object-Oriented-Programming-Notes---Last-Minute-Revision-Python
  Object-Oriented Programming (OOP) in Python is a programming paradigm that uses "objects" to structure code. It allows you to model real-world entities and relationships using classes and objects.
+Here are few repeated Interview Questions:
+Sure, here are some concise OOP questions with their answers:
+
+1. **What is a class in Python?**
+   - **Answer**: A class is a blueprint for creating objects. It defines a set of attributes and methods that the objects created from the class will have.
+
+2. **What is an object in Python?**
+   - **Answer**: An object is an instance of a class. It represents a specific entity that holds data and can perform actions defined by its class.
+
+3. **What is the purpose of the `__init__` method in Python?**
+   - **Answer**: The `__init__` method is a constructor in Python classes. It initializes the object's attributes when the object is created.
+
+4. **What is encapsulation?**
+   - **Answer**: Encapsulation is the concept of bundling data (attributes) and methods (functions) that operate on the data into a single unit or class. It hides the internal state and only exposes necessary methods.
+
+5. **What is inheritance?**
+   - **Answer**: Inheritance is a mechanism by which one class (the child or subclass) inherits attributes and methods from another class (the parent or superclass), promoting code reuse.
+
+6. **What is polymorphism?**
+   - **Answer**: Polymorphism allows methods to do different things based on the object it is acting upon. It can be achieved through method overriding (runtime) or method overloading (compile-time).
+
+7. **What is an abstract class?**
+   - **Answer**: An abstract class cannot be instantiated and may contain one or more abstract methods that must be implemented by subclasses.
+
+8. **What is method overriding?**
+   - **Answer**: Method overriding occurs when a subclass provides a specific implementation of a method that is already defined in its superclass.
+
+9. **What is method overloading?**
+   - **Answer**: Method overloading allows multiple methods with the same name but different parameters to exist in the same class.
+
+10. **What is a constructor?**
+    - **Answer**: A constructor is a special method used to initialize objects when they are created. In Python, it is defined using the `__init__` method.
+
+Let me know if you need more examples or details!
+
 Here’s a brief summary of Object-Oriented Programming (OOP) concepts in Python with examples:
 
 1. OOP: Programming paradigm using objects and classes to structure code.
