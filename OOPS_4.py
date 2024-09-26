@@ -1,4 +1,4 @@
-# Inheritance
+### Inheritance
 
 #Single level Inheritance
 class Car():
@@ -48,7 +48,7 @@ print(c1.varB)
 print(c1.varC)
 print("")
 
-#super() method used to access method of parent class
+#super() method used to access method of parent class from child classes
 
 class Swift(Car):
     def __init__(self,model):
@@ -56,4 +56,5 @@ class Swift(Car):
         super().start()
 
 car2 = Swift("Swift")
-        
+
+
